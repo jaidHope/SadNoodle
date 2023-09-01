@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my Sad Noodle!
 ---
 
-## This is the homepage of my blog
+## A fairytale about software engineering and mental health
 
 
