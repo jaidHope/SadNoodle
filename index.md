@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Sad Noodle!
+title: Welcome to Sad Noodle!
 ---
 
 ## A fairytale about software engineering and mental health
