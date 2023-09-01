@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## A fairytale about software engineering and mental health
 
 Welcome to my tiny corner of the internet. I’m Jaid, neither famous, nor particularly special. I work as a software engineer in Cape Town, South Africa, and this blog aims to merge my experiences in the tech industry, as well as my personal interests in mental health and storytelling.
