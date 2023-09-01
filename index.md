@@ -1,5 +1,5 @@
 ---
-title: Welcome to Sad Noodle!
+title: Home
 ---
 
 ## A fairytale about software engineering and mental health
