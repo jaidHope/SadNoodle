@@ -1,8 +1,6 @@
 ---
 title: "Pilot!"
 date: 2023-09-01
-disqus:
-  shortname: https-jaidhope-github-io-sadnoodle
 ---
 
 Once upon a time, there lived a weary Code Witch called Hazel, who was trapped in the Castle of Code - a digital castle fabricated entirely from code. She, along with many other Code Witches, had been working for over 150 years on this project and the castle was the most elaborate, most beautiful, and most outstanding of them all in the kingdom.
