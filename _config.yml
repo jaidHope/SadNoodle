@@ -1,3 +1,5 @@
 theme: minima
 title: Sad Noodle
 author: Jaid
+minima:
+  skin: dark
