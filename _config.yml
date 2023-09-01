@@ -2,6 +2,6 @@ theme: minima
 title: Sad Noodle
 author: Jaid
 minima:
-  skin: dark
+	skin: dark
 disqus:
-  shortname: https-jaidhope-github-io-sadnoodle
+	shortname: https-jaidhope-github-io-sadnoodle
